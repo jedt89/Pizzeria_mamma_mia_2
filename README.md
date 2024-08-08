@@ -7,6 +7,9 @@
 # Deploy 🛜
 ➡️ https://jedt89.github.io/Pizzeria_mamma_mia_2
 
+🧒 USER: 1234567
+🔒 PASSWORD: 1234567
+
 
 
 # Tecnologías utilizadas 
