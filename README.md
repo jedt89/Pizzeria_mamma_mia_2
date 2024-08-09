@@ -21,6 +21,8 @@
 
 🚀 Prime React: Librería de componentes para react.
 
+🚀 React-icons: Librería de iconos para react.
+
 🚀 gh-pages: Motor de despliegue de aplicación en GitHub Pages.
 
 
